@@ -7,27 +7,27 @@ En este blog, exploraremos algunas de las tácticas y herramientas que los profe
 
 Índice:
 
-1)Introducción a Blue Team Hacking /n
-2)Explicación de los equipos rojo y azul en ciberseguridad /n
-3)Enfoque en tácticas de Blue Team Hacking /n
-4)Herramientas para Blue Team Hacking /n
-5)Análisis de paquetes con Wireshark
-6)Monitoreo de red con Nagios
-7)Análisis de logs con ELK Stack
-8)Herramientas de análisis de malware
-9)Tácticas de Blue Team Hacking
-10)Detección de intrusiones
-11)Análisis de amenazas
-Respuesta a incidentes
-Gestión de vulnerabilidades
-Ciberseguridad en la nube
-Amenazas a la seguridad en la nube
-Protección de los datos en la nube
-Herramientas de ciberseguridad en la nube
-Blue Team Hacking en la práctica
-Ejemplos de ataques cibernéticos y cómo responder a ellos
-Estudio de caso sobre un incidente de seguridad
-Pruebas de penetración en entornos de prueba
-Conclusión
-Recapitulación de los puntos clave de Blue Team Hacking
-Perspectivas futuras en ciberseguridad
+1)Introducción a Blue Team Hacking <br/>
+2)Explicación de los equipos rojo y azul en ciberseguridad <br/>
+3)Enfoque en tácticas de Blue Team Hacking <br/>
+4)Herramientas para Blue Team Hacking <br/>
+5)Análisis de paquetes con Wireshark <br/>
+6)Monitoreo de red con Nagios <br/>
+7)Análisis de logs con ELK Stack <br/>
+8)Herramientas de análisis de malware <br/>
+9)Tácticas de Blue Team Hacking <br/>
+10)Detección de intrusiones <br/>
+11)Análisis de amenazas <br/>
+Respuesta a incidentes <br/>
+Gestión de vulnerabilidades <br/>
+Ciberseguridad en la nube <br/>
+Amenazas a la seguridad en la nube <br/>
+Protección de los datos en la nube <br/>
+Herramientas de ciberseguridad en la nube   <br/>
+Blue Team Hacking en la práctica  <br/>
+Ejemplos de ataques cibernéticos y cómo responder a ellos <br/>
+Estudio de caso sobre un incidente de seguridad  <br/>
+Pruebas de penetración en entornos de prueba  <br/>
+Conclusión  <br/>
+Recapitulación de los puntos clave de Blue Team Hacking  <br/>
+Perspectivas futuras en ciberseguridad  <br/>
