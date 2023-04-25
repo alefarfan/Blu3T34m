@@ -7,7 +7,7 @@ En este blog, exploraremos algunas de las tácticas y herramientas que los profe
 
 Índice:
 
-<a href="introduccion">1) Introducción a Blue Team Hacking</a> <br/>
+<a href="#introduccion">1) Introducción a Blue Team Hacking</a> <br/>
 <a>2) Explicación de los equipos rojo y azul en ciberseguridad</a> <br/>
 <a>3) Enfoque en tácticas de Blue Team Hacking</a> <br/>
 <a>4) Herramientas para Blue Team Hacking</a> <br/>
