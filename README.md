@@ -5,7 +5,8 @@ Blue Team Hacking se enfoca en las tácticas, técnicas y procedimientos (TTP) q
 
 En este blog, exploraremos algunas de las tácticas y herramientas que los profesionales de Blue Team utilizan para detectar, analizar y responder a los ataques cibernéticos.
 
-Índice:
+
+<h2 id="indice">Índice:</h2><br/>
 
 <a href="#introduccion">1) Introducción a Blue Team Hacking</a> <br/>
 <a href="#enfoque">2) Enfoque en tácticas de Blue Team Hacking</a> <br/>
@@ -32,27 +33,69 @@ En este blog, exploraremos algunas de las tácticas y herramientas que los profe
 <a href="#perspectivafutura">23) Perspectivas futuras en ciberseguridad</a>  <br/>
 
 <h3 id="introduccion">Introducción a Blue Team Hacking</h3>
-En estos tiempo con el crecimiento exponencial de la tecnologia es impresindible que, tanto las personas como las empresas e instituciones se consientizen y tengan el resguardo adecuado de lo que es hoy en dia lo cotidiano, la tecnologia en nuestras vidas
+En estos tiempo con el crecimiento exponencial de la tecnologia es impresindible que, tanto las personas 
+como las empresas e instituciones se consientizen y tengan el resguardo adecuado de lo que es hoy en dia lo cotidiano, la tecnologia en nuestras vidas
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="enfoque">Enfoque en tácticas de Blue Team Hacking</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="herramientasbt">Herramientas para Blue Team Hacking</h3>
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="analisistrafico">Análisis de paquetes con Wireshark</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="monitoreo">Monitoreo de red con Nagios</h3>
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="analisislog">Análisis de logs con ELK Stack</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="herramimientasam">Herramientas de análisis de malware</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="tacticasbt">Tácticas de Blue Team Hacking</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="detecintru">Detección de intrusiones</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="analisisamenaza">Análisis de amenazas</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="respuestaincidente">Respuesta a incidentes</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="gestionvulnerabilidad">Gestión de vulnerabilidades</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="cibernube">Ciberseguridad en la nube</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="segnube">Amenazas a la seguridad en la nube</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="protecnube">Protección de los datos en la nube</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="herranube">Herramientas de ciberseguridad en la nube</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="btpractica">Blue Team Hacking en la práctica</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="ejemplosyrespuestas">Ejemplos de ataques cibernéticos y cómo responder a ellos</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="casosincidentes">Estudio de caso sobre un incidente de seguridad</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="pruebprueba">Pruebas de penetración en entornos de prueba</h3>
+
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="conclucion">Conclusión</h3>
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="recapitulacion">Recapitulación de los puntos clave de Blue Team Hacking</h3>
+<a href="#indice">*Volver al Indice</a>  <br/>
 <h3 id="perspectivafutura">Perspectivas futuras en ciberseguridad</h3>
+<a href="#indice">*Volver al Indice</a>  <br/>
 
