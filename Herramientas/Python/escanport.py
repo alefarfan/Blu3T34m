@@ -2,33 +2,33 @@
 import sys
 import socket
 
-ip = '192.168.0.1' 
-puerto_abierto =[] 
+ip = '192.168.1.1' 
+puertos_abiertos =[] 
 
-ports = range(1, 65535)
+ports = range(10, 55)
 
-def probe_port(ip, port, result = 1): 
+def probar_puertos(ip, port, resultado = 1): 
   try: 
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
     sock.settimeout(0.6) 
     r = sock.connect_ex((ip, port))   
     if r == 0: 
-      res = r 
+      resultado = r 
     sock.close() 
   except Exception as e: 
     pass 
-  return res
+  return resultado
 
 
 for port in ports: 
     sys.stdout.flush() 
-    response = probe_port(ip, port) 
+    response = probar_puertos(ip, port) 
     if response == 0: 
-        puerto_abierto.append(port) 
+        puertos_abiertos.append(port) 
     
 
-if puerto_abierto: 
-  print("Los puertos abiertos son: ") 
-  print(sorted(puerto_abierto)) 
+if puertos_abiertos: 
+  print("Los Puertos abiertos son: ") 
+  print(sorted(puertos_abiertos)) 
 else: 
-  print("No hay puertos abiertos")
+  print("no hay puertos abiertos")
